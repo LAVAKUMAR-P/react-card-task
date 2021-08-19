@@ -92,6 +92,7 @@ function App() {
         {
           name: "Unlimited Users",
           isEnabled: true,
+          isBold: true,
         },
         {
           name: "150GB Storage",
